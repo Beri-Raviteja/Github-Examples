@@ -1,0 +1,201 @@
+[33mcommit 8e2e0416f021c13d430284b40922a77317f195f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Beri Raviteja <166895183+Beri-Raviteja@users.noreply.github.com>
+Date:   Mon Apr 15 11:09:24 2024 +0530
+
+    create a skeleton readme for teja git crash course
+
+[33mcommit 8f86e480ba82e13a32bcb81c73277021eda4ae96[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Jan 15 14:28:33 2024 -0500
+
+    Update issue templates
+
+[33mcommit f190859dc906d8b7cbc9e9c83e527e2414afd13c[m
+Merge: a250097 06e4dfd
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Mon Jan 15 14:22:10 2024 -0500
+
+    Merge pull request #6 from andrew-wc-brown/main
+    
+    update
+
+[33mcommit 06e4dfdd2834aa494d1c51d7f65b27d796e20f82[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 14:19:57 2024 -0500
+
+    add issue template
+
+[33mcommit 5fa4605970f5f376258fdae50d7bec5deac2779d[m
+Merge: 53a011d fd89234
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 13:54:45 2024 -0500
+
+    Merge pull request #8 from andrew-wc-brown/number-test
+    
+    Update hello
+
+[33mcommit fd8923465bd53f6a280b75f76e6d7ab20c8fcc9c[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 13:51:45 2024 -0500
+
+    Update hello
+
+[33mcommit 53a011decb4182c093d0133113b96527bdc9ac0a[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:44:01 2024 -0500
+
+    Update Readme.md
+
+[33mcommit 0a60a42e8d7088356c315e784fac6fbb01a34f45[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:39:41 2024 -0500
+
+    markdown examples
+
+[33mcommit edc14ba7f9dc5e84820ad67c19c56563e71be828[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Mon Jan 15 11:26:17 2024 -0500
+
+    Create Readme.md
+
+[33mcommit a25009746ec5a992eb28291c7cb4c65cbe31ddd9[m
+Merge: 4ab1057 fe0332b
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 15:50:07 2024 -0500
+
+    Merge pull request #4 from andrew-wc-brown/main
+    
+    SDKs
+
+[33mcommit fe0332bb438780aaa4263f5a6d9fee35f9aeb58c[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:49:11 2024 +0000
+
+    sdk
+
+[33mcommit 44a954cb1d00e6fe256249ad69a1743b7947445d[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:46:44 2024 +0000
+
+    add the igniroe
+
+[33mcommit 3a652b86905ca4e7888f4898e1b6f5d957b2c926[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 20:08:08 2024 +0000
+
+    install terraform cli
+
+[33mcommit 4ab1057ba8e738ec6e8122bc08e0450830200927[m
+Merge: 2aa376d 7f7305f
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 14:50:24 2024 -0500
+
+    Merge pull request #3 from andrew-wc-brown/main
+    
+    basic instructions for ssh
+
+[33mcommit 7f7305f42e089cba64150ec6d1ac69ae4505e207[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:49:48 2024 +0000
+
+    basic instructions for ssh
+
+[33mcommit 2aa376d4b87fc8e3a93cf56ef3b1f78d4e22c056[m
+Merge: 6fbdff5 63606c0
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 14:38:52 2024 -0500
+
+    Merge pull request #2 from andrew-wc-brown/main
+    
+    fix dev container
+
+[33mcommit 63606c0737f6db1dd1b873106f6488cbadd2f881[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:20:11 2024 +0000
+
+    dont change remote user
+
+[33mcommit 378bc0d3b71219d41678c80ff0342723c6f9588f[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 19:10:53 2024 +0000
+
+    it should install the Github CLI
+
+[33mcommit 6fbdff5d0a62697d94e49d7b7a31c1feb86b3467[m
+Merge: 0fd2c68 75c3e3b
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 12:57:10 2024 -0500
+
+    Merge pull request #1 from andrew-wc-brown/main
+    
+    Documentation for Git Crash Course
+
+[33mcommit 75c3e3b4c2909db50a5e0764f4d4b046e00d250d[m
+Merge: 0a6b6d4 ba2663f
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 12:55:18 2024 -0500
+
+    Merge pull request #1 from andrew-wc-brown/dev
+    
+    Dev
+
+[33mcommit ba2663f5bcb11af05b41bb2b68c479d65545a65a[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:53:45 2024 +0000
+
+    minor update
+
+[33mcommit dfffff635074dd1f08f0ec0603fc8e9b540ffc3b[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:50:09 2024 +0000
+
+    remove dockerfile we dont want to build a ruby env
+
+[33mcommit f65effe8eb0bed606217ebc3773b8960ca57b42e[m
+Merge: 5230504 0a6b6d4
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:48:18 2024 +0000
+
+    Merge branch 'main' into dev
+
+[33mcommit 523050469fd1315be7d51e492f37f64b0ca49f98[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 17:36:05 2024 +0000
+
+    changes
+
+[33mcommit 0a6b6d46f9607e2dc77d2bdecdb3c0116053f02d[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:33:18 2024 -0500
+
+    github cli way
+
+[33mcommit d87a1ec9835c5770977b54af4c859e00735c6181[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:09:51 2024 -0500
+
+    update ssh way
+
+[33mcommit 8047cbaa6b10e0cf7213008100d8408e9440cf65[m
+Author: Andrew Brown <andrew@exampro.co>
+Date:   Sun Jan 14 12:05:16 2024 -0500
+
+    update
+
+[33mcommit ffc29abe78c2e9bf09ba413d7e833210eacc1e87[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 16:56:56 2024 +0000
+
+    add hello file
+
+[33mcommit fcd9a285ac4df600adc3685235e15010025ed375[m
+Author: Andrew Brown (Alt Account) <156593426+andrew-wc-brown@users.noreply.github.com>
+Date:   Sun Jan 14 11:26:34 2024 -0500
+
+    create skeleton readme for git crash course
+
+[33mcommit 0fd2c6844910fd90b9fb45dfe725b5fb5e67bef6[m
+Author: Andrew Brown <andrew@monsterboxpro.com>
+Date:   Sun Jan 14 10:13:10 2024 -0500
+
+    Initial commit
